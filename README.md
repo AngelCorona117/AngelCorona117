@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... a
 -->
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=AngelCorona117)
 
 
 
