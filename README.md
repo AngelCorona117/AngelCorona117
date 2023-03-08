@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api AngelCorona117= &theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?AngelCorona117=Your_GitHub_Username&show_icons=true)
