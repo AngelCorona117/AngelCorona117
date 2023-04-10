@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel Corona</h1>
 <h3 align="center">A passionate fullstack developer student from México</h3>
-
+<br>
 <p align="left">  Currently learning Cassandra Databases </p>
 <p align="left"> Currently working on CS50 Final Proyect (Public repository)  </p>
 
