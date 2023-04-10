@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angel Corona</h1>
 <h3 align="center">A passionate fullstack developer student from México</h3>
 
-<p align="center">  Currently learning Cassandra Databases </p>
-
+<p align="left">  Currently learning Cassandra Databases </p>
+<p align="left"> Currently working on CS50 Final Proyect (Public repository)  </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ángel-corona-62b924268) 
